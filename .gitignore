@@ -3,3 +3,6 @@
 
 # Ignore swap files from vim
 *.swp
+
+# Ignore token generation file for submission
+token.mat
