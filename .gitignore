@@ -1,3 +1,5 @@
 # Ignore lecture directory (contains videos)
 /lectures
 
+# Ignore swap files from vim
+*.swp
